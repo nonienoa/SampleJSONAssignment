@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+          "id": "1",
+          "name": "Harper Doyle",
+          "email": "harperdoyle@zillatide.com",
+          "phone": "+977 (815) 443-3086",
+          "address": "632 Wyckoff Street, Botswana",
+          "tags": [
+            "officia",
+            "non"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Stewart Hutchinson",
+          "email": "stewarthutchinson@zillatide.com",
+          "phone": "+977 (958) 529-3070",
+          "address": "247 Guider Avenue, Denmark",
+          "tags": [
+            "exercitation",
+            "exercitation"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Collier Flowers",
+          "email": "collierflowers@zillatide.com",
+          "phone": "+977 (860) 515-2812",
+          "address": "438 Driggs Avenue, Ethiopia",
+          "tags": [
+            "tempor",
+            "proident"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Oconnor Langley",
+          "email": "oconnorlangley@zillatide.com",
+          "phone": "+977 (861) 557-2060",
+          "address": "160 Apollo Street, Mongolia",
+          "tags": [
+            "cillum",
+            "in"
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Shannon Mack",
+          "email": "shannonmack@zillatide.com",
+          "phone": "+977 (824) 478-2224",
+          "address": "401 Kensington Street, Korea (South)",
+          "tags": [
+            "est",
+            "do"
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Maryanne Carlson",
+          "email": "maryannecarlson@zillatide.com",
+          "phone": "+977 (821) 546-3658",
+          "address": "341 Columbia Place, Czech Republic",
+          "tags": [
+            "laboris",
+            "cillum"
+          ]
+        }
+      ]
+}
